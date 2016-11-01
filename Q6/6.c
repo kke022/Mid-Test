@@ -1,4 +1,4 @@
-#include <stdio.h>
+﻿#include <stdio.h>
 
 #define ARITH(X, Y)  2 * X * Y
 
